@@ -6,7 +6,8 @@
       <class name="org.bd.bikroy.bikroyhome">
         <methods>
           <include name="stop"/>
-          <include name="locationslct"/>
+          <include name="Mobile"/>
+          <include name="bikroyhomeurl"/>
           <include name="open"/>
         </methods>
       </class> <!-- org.bd.bikroy.bikroyhome -->
